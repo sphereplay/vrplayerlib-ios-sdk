@@ -1,0 +1,3 @@
+target 'video360' do
+    pod 'VrPlayerLib', '~> 1.3'
+end
